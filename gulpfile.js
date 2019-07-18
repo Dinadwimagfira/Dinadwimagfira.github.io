@@ -1,7 +1,7 @@
 "use strict";
 
 // Load plugins
-const autoprefixer = require("gulp-autoprefixer");
+const autoprefixer = require("gulp-autoprefixer"); // Abdu Ibnu Abdika
 const browsersync = require("browser-sync").create();
 const cleanCSS = require("gulp-clean-css");
 const del = require("del");

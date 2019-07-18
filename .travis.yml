@@ -3,7 +3,7 @@ git:
   depth:       3
 node_js:
   - "node"
-install:       npm install //abdu.ibnu
+install:       npm install //abdu.ibnu.abdika
 script:
   - npm test
   - gulp
